@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(236, 241, 244);
+}
+
+.ust-bolum {
+    background-color: rgb(34, 118, 196); 
+    color: white;           
+    padding: 5px;          
+    text-align: center;    
+}
+
+
+.alt-bolum {
+    background-color: rgb(255, 255, 255); 
+    color: black;
+    margin: 60px;
+    padding: 30px;  
+    text-align:;
+}
+.cizgi {
+    /* Kalınlığı 3 piksel, düz çizgi (solid) ve mavi renk */
+    border-bottom: 3px solid rgb(34, 118, 196); 
+    
+    /* Yazı ile çizgi arasında biraz boşluk kalması için (isteğe bağlı) */
+    padding-bottom: 5px; 
+}
