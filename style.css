@@ -6,18 +6,22 @@ body {
 
 .ust-bolum {
     background-color: rgb(34, 118, 196); 
-    color: white;           
-    padding: 5px;          
+    color: white;               
     text-align: center;    
+    margin: 60px auto;
+    padding: 30px;
+    
 }
 
 
 .alt-bolum {
     background-color: rgb(255, 255, 255); 
-    color: black;
-    margin: 60px;
-    padding: 30px;  
+    color: black; 
     text-align:;
+    margin: 30px auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 15px;
 }
 .cizgi {
     /* Kalınlığı 3 piksel, düz çizgi (solid) ve mavi renk */
